@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jorge94barrios/gitpushtwo.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/jorge94barrios/gitpushtwo.git/static/js/main.b60b6352.chunk.js",
+    "main.js.map": "/jorge94barrios/gitpushtwo.git/static/js/main.b60b6352.chunk.js.map",
+    "runtime-main.js": "/jorge94barrios/gitpushtwo.git/static/js/runtime-main.d77b802c.js",
+    "runtime-main.js.map": "/jorge94barrios/gitpushtwo.git/static/js/runtime-main.d77b802c.js.map",
+    "static/js/2.65ec4601.chunk.js": "/jorge94barrios/gitpushtwo.git/static/js/2.65ec4601.chunk.js",
+    "static/js/2.65ec4601.chunk.js.map": "/jorge94barrios/gitpushtwo.git/static/js/2.65ec4601.chunk.js.map",
+    "static/js/3.d79350f8.chunk.js": "/jorge94barrios/gitpushtwo.git/static/js/3.d79350f8.chunk.js",
+    "static/js/3.d79350f8.chunk.js.map": "/jorge94barrios/gitpushtwo.git/static/js/3.d79350f8.chunk.js.map",
+    "index.html": "/jorge94barrios/gitpushtwo.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/jorge94barrios/gitpushtwo.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.65ec4601.chunk.js.LICENSE.txt": "/jorge94barrios/gitpushtwo.git/static/js/2.65ec4601.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jorge94barrios/gitpushtwo.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d77b802c.js",
+    "static/js/2.65ec4601.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b60b6352.chunk.js"
+  ]
+}
